@@ -64,7 +64,7 @@
   background-position: 30% 0%;  
   background-size: cover;
   background-repeat: no-repeat;
-  filter: blur(0.35rem) sepia(0.4); 
+  filter: blur(0.35rem); 
 }
 /*
 .bg-total{
